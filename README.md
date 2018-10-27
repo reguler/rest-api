@@ -9,11 +9,13 @@ Demo app with basic REST API
 
 List of basic routes
 
+
 ROUTE | HTTP | Description
 ------|------|------------
 `/api/hello?name={name}`|GET|Print hello,`{name}`!
 
 List of basic routes:
+
 ROUTE|HTTP|Description
 -----|----|-----------
 `/api/users`|GET|Get all the users
